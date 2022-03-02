@@ -19,7 +19,7 @@ El objetivo principal de Mi proyecto, es el poder ayudar a las personas a que a 
 Mi Producto de Tienda Virtual, está dirigido a todo el Público en General, a Niños y Niñas, Jóvenes, Adultos, y todos los que deseen, Divertirse Elegiendo que desean Probar, que puedan pasar un Bonito Rato y Disfrutar de Nuestro Riquisimos Postrecitos, Bebidas y Productos Muy Ricos que Tenemos Especialmente para Ell@s.
 
 # 4) DEFINICIÓN DE LA SOLUCIÓN/PRODUCTO:
-De la misma forma, luego de haber analizado y observado, los problemas que encuentran las personas al entrar a una Tienda Online, decidimos crear Antojitos JERYSHEL, una Tiendita Virtual desarrollada con muchísimo amor, cariño y dedicación, para nuestros Querid@s Client@s, qué más que ser Client@s son Nuestros Amigos y Amigas, Observamos con mucho detenimiento esta Información Recolectada y queríamos traer algo totalmente distinto y que pudiera dar solución a estas problemáticas identificadas, que generalmente podemos encontrar al Ingresar a una Tienda Online. Por ello, en nuestra Tienda Virtual Antojitos JERYSHEL, podemos encontrar, que las Especificaciones de los productos nos brindan bastante detalle, y se comprende totalmente, asimismo en el área de la Descripción del producto, podemos no solo encontrar la descripción de dicho Producto, sino que también podemos conocer un poco de la Historia de ese producto, cómo está elaborado, qué ingredientes pueden ingresar para prepararlo, Quien lo Creó, entre otras. Además qué encontraremos una imagen Referencial de cómo se ve o cómo se vería al llegarle al Cliente. También Contamos con dos maneras de poder acceder a nuestros productos, la primera es acceder y observar los productos por categorías, la segunda es que lo podemos encontrar en un tipo Menú donde salen todos los productos y una barra que nos mostrará los productos,segun el orden que podamos seleccionar. De Igual Importancia, algo muy Crucial a la hora de poder comprar un producto, es el precio, para lo cual Antojitos JERYSHEL, pensó mucho en ello y se preocupa mucho por el Cliente, Queremos siempre que Reciban un producto de Excelente Calidad y que además como lo son todos nuestros Productos, tienen precios muy Accesibles, para que todos y todas puedan consumir nuestros Productos  y Disfrutarlos. De esta manera, al poder agregar todas estas opciones, estamos dando solución a estas problemáticas que podemos encontrar en las personas al entrar una a una Tienda Online, y Regularmente estamos haciendo Formularios y pruebas para mejorar la Calidad de nuestra Tiendita Virtual, todo ello, para darle lo mejor de lo mejor a nuestros Querid@s Client@s, Más que ser nuestros Clientes y Clientas, son nuestros Amigos y Amigas.
+De la misma forma, luego de haber analizado y observado, los problemas que encuentran las personas al entrar a una Tienda Online, decidimos crear Antojitos JERYSHEL, una Tiendita Virtual desarrollada con muchísimo amor, cariño y dedicación, para nuestros Querid@s Client@s, qué más que ser Client@s son Nuestros Amigos y Amigas, Observamos con mucho detenimiento esta Información Recolectada y queríamos traer algo totalmente distinto y que pudiera dar solución a estas problemáticas identificadas, que generalmente podemos encontrar al Ingresar a una Tienda Online. Por ello, en nuestra Tienda Virtual Antojitos JERYSHEL, podemos encontrar, que las Especificaciones de los productos nos brindan bastante detalle, y se comprende totalmente, asimismo en el área de la Descripción del producto, podemos no solo encontrar la descripción de dicho Producto, sino que también podemos conocer un poco de la Historia de ese producto, cómo está elaborado, qué ingredientes pueden ingresar para prepararlo, Quien lo Creó, entre otras. Además qué encontraremos una imagen Referencial de cómo se ve o cómo se vería al llegarle al Cliente. También Contamos con dos maneras de poder acceder a nuestros productos, la primera es acceder y observar los productos por categorías, la segunda es que lo podemos encontrar en un tipo Menú donde salen todos los productos y una barra que nos mostrará los productos, segun el orden que podamos seleccionar. De Igual Importancia, algo muy Crucial a la hora de poder comprar un producto, es el precio, para lo cual Antojitos JERYSHEL, pensó mucho en ello y se preocupa mucho por el Cliente, Queremos siempre que Reciban un producto de Excelente Calidad y que además como lo son todos nuestros Productos, tienen precios muy Accesibles, para que todos y todas puedan consumir nuestros Productos  y Disfrutarlos. De esta manera, al poder agregar todas estas opciones, estamos dando solución a estas problemáticas que podemos encontrar en las personas al entrar una a una Tienda Online, y Regularmente estamos haciendo Formularios y pruebas para mejorar la Calidad de nuestra Tiendita Virtual, todo ello, para darle lo mejor de lo mejor a nuestros Querid@s Client@s, Más que ser nuestros Clientes y Clientas, son nuestros Amigos y Amigas.
 
 # 5) CARACTERISTICAS DE NUESTRA TIENDA VIRTUAL:
   ***CARACTERISTICAS DE LA PÁGINA PRINCIPAL***
@@ -63,7 +63,7 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Nombre Grande de la Sección.
    - Categorias de Todos los Productos.
    - Barra de Búsqueda, para mayor Facilidad a la Hora de encontrar los Productos.
-   - Nombre del Producto, Imagen Referencial, Precio y con Botón a la Opción Añadir al Carrito.
+   - Nombre del Producto, Imagen Referencial, Precio y se muestra un Botón con Opción a Añadir al Carrito. 
    - Sección de la Fotitos del Mes. (En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
    - Sección de Comentarios de Nuestros Clientes. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
    - Nuestra Recomendación Semanal de Música Relajante. ♡ En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
@@ -79,7 +79,24 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Realizadores.
    - Apartados de la Tiendita Online.
    - Nombre Grande de la Sección.
-   - 
+   - Link que nos Redirecciona a la Página Principal.
+   - Barra que nos Muestra de cuantos productos a cuantos Productos se nos esta mostrando.
+   - Barra que nos muestra los productos, según el orden que podamos seleccionar, Tales como: Orden por Defecto, Ordenar por Popularidad, Ordenar por Calificación Media, Ordenar por los Últimos, Ordenar por Precio: Bajo a Alto y Ordenar por Precio: Alto a Bajo.
+   - Se Muestran Todos Los Productos Como un Menú.
+   - Los Productos se Muestran Individualmente, Si esta en Oferta o No esta en Oferta, Se muestra el Nombre del Producto, Se muestra el Precio y se muestra un Botón con Opción a Añadir al Carrito. 
+   - Sección de la Fotitos del Mes. (En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Sección de Comentarios de Nuestros Clientes. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Nuestra Recomendación Semanal de Música Relajante. ♡ En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Frasesitas Dulces Sobre los Postrecitos. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Frasesita Divertida sobre los Postrecitos. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Botón Ir Arriba. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual.
+   - Botón Ir Arriba.
+
+  ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: CARRITO***
+
+
 
  
 
