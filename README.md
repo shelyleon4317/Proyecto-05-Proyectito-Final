@@ -129,7 +129,7 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Botón Ir Arriba.
 
 
-  ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: CARRITO***
+  ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: FINALIZAR COMPRA***
 
 
 
