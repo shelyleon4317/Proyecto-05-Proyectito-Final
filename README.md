@@ -24,7 +24,17 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
 # 5) CARACTERISTICAS DE NUESTRA TIENDA VIRTUAL:
   ***CARACTERISTICAS DE LA PÁGINA PRINCIPAL***
    - Logo de la Tiendita Virtual.
-   - 
+   - Realizadores.
+   - Apartados de la Tiendita Online.
+   - Nombre Grande de la Sección.
+   - Frasesita Creativa y Tierna.
+   - Sección de la Fotitos del Mes.
+   - Sección de Comentarios de Nuestros Clientes.
+   - Nuestra Recomendación Semanal de Música Relajante ♡
+   - Frasesitas Dulces Sobre los Postrecitos.
+   - Frasesita Divertida sobre los Postrecitos.
+   - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual.
+   - Botón Subir Arriba.
 
 
  
