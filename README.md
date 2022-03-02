@@ -7,5 +7,8 @@ Este Tiendita Virtual, llamada Antojitos JERYSHEL. Es una Tienda que Vende Produ
 
 # 1) OBJETIVOS DEL PROYECTO:
 El objetivo principal de Mi proyecto, es el poder ayudar a las personas a que a través de la Venta de productos alimenticios, cómo Postres, Bebidas, y muchas cosas más. Espero que puedan pasar bonitos y gratos momentos con Antojitos JERYSHEL, también que de esta manera se puedan sentir mucho mejor y puedan pasar momentos agradables, en Compañia de sus Seres Queridos, Amigos o alguna Personita Especial, lo que busco es crear más allá que una Tienda Virtual, Mi meta es crear un espacio en el cual podamos encontrar un mensaje positivo, y nos alegra saber que lo estamos haciendo, faltan muchas cosas por mejorar, pero Puedo decir, que lo que nunca falta y lo que nunca faltará en Antojitos JERYSHEL, es encontrar una mano amiga que nos pueda ayudar. No Solamente quiero que sea una Tienda Virtual en la cual se vendan productos, sino quiero que sepan, Nuestr@s Client@s, que son nuestr@s Amig@s, quiero que sepan que en cada producto que nosotros entregamos, lo realizamos con muchísimo amor y dedicación, con Especial cuidado y sobretodo buscamos poder enseñar a nuestros clientes y clientas, qué podemos lograr una Mejor Sociedad y un Mejor Futuro, sí mostramos Amor y Amabilidad por el Prójimo, por ello nos alegra decir, que en Antojitos JERYSHEL... ¡Más que ser una Tienda Virtual, Somos una Gran Familia!.
+
+# 2) PROBLEMAS IDENTIFICADOS EN LA INVESTIGACIÓN (DEL CLIENTE Y DEL USUARIO):
+ - 
  
  *** 
