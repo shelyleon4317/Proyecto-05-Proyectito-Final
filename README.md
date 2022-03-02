@@ -28,13 +28,13 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Apartados de la Tiendita Online.
    - Nombre Grande de la Sección.
    - Frasesita Creativa y Tierna.
-   - Sección de la Fotitos del Mes.
-   - Sección de Comentarios de Nuestros Clientes.
-   - Nuestra Recomendación Semanal de Música Relajante ♡
-   - Frasesitas Dulces Sobre los Postrecitos.
-   - Frasesita Divertida sobre los Postrecitos.
-   - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual.
-   - Botón Ir Arriba.
+   - Sección de la Fotitos del Mes. (En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Sección de Comentarios de Nuestros Clientes. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Nuestra Recomendación Semanal de Música Relajante. ♡ En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Frasesitas Dulces Sobre los Postrecitos. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Frasesita Divertida sobre los Postrecitos. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Botón Ir Arriba. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
 
   ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: ¿QUIENES SOMOS?***
    - Logo de la Tiendita Virtual.
@@ -46,10 +46,38 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Fotito de la Fundadora y CEO de Antojitos JERYSHEL.
    - Beat para Reproducir durante la Nota Especial.
    - Gif Muy Bonito y Tierno, Al Final de la Notita Especial para Nuestros Queridos Amigos y Amigas.
+   - Sección de la Fotitos del Mes. (En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Sección de Comentarios de Nuestros Clientes. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Nuestra Recomendación Semanal de Música Relajante. ♡ En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Frasesitas Dulces Sobre los Postrecitos. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Frasesita Divertida sobre los Postrecitos. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Botón Ir Arriba. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
    - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual.
    - Botón Ir Arriba.
 
-  ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: ¿QUIENES SOMOS?***
+  ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: ORDEN ONLINE POR CATEGORÍAS***
+   - Logo de la Tiendita Virtual.
+   - Realizadores.
+   - Apartados de la Tiendita Online.
+   - Nombre Grande de la Sección.
+   - Categorias de Todos los Productos.
+   - Barra de Búsqueda, para mayor Facilidad a la Hora de encontrar los Productos.
+   - Nombre del Producto, Imagen Referencial, Precio y con Botón a la Opción Añadir al Carrito.
+   - Sección de la Fotitos del Mes. (En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Sección de Comentarios de Nuestros Clientes. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Nuestra Recomendación Semanal de Música Relajante. ♡ En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Frasesitas Dulces Sobre los Postrecitos. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Frasesita Divertida sobre los Postrecitos. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Botón Ir Arriba. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual.
+   - Botón Ir Arriba.
+
+  ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: ORDEN ONLINE POR CATEGORÍAS***
+
+ 
+
 
 
  
