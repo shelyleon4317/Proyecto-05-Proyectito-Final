@@ -34,7 +34,18 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Frasesitas Dulces Sobre los Postrecitos.
    - Frasesita Divertida sobre los Postrecitos.
    - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual.
-   - Botón Subir Arriba.
+   - Botón Ir Arriba.
+
+  ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: ¿QUIENES SOMOS?***
+   - Logo de la Tiendita Virtual.
+   - Realizadores.
+   - Apartados de la Tiendita Online.
+   - Nombre Grande de la Sección.
+   - Mensajito Inicial para la Notita Especial a Nuestro Queridos Amigos y Amigas.
+   - Notita Especial para Nuestros Queridos Client@s, que más que ser Client@s, son nuestros Queridos Amigos y Amigas.
+   - Fotito de la Fundadora y CEO de Antojitos JERYSHEL.
+   - Beat para Reproducir durante la Nota Especial.
+   - Gif Muy Bonito y Tierno, Al Final de la Notita Especial para Nuestros Queridos Amigos y Amigas.
 
 
  
