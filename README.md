@@ -46,6 +46,10 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Fotito de la Fundadora y CEO de Antojitos JERYSHEL.
    - Beat para Reproducir durante la Nota Especial.
    - Gif Muy Bonito y Tierno, Al Final de la Notita Especial para Nuestros Queridos Amigos y Amigas.
+   - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual.
+   - Botón Ir Arriba.
+
+  ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: ¿QUIENES SOMOS?***
 
 
  
