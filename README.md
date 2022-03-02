@@ -104,6 +104,28 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Apartados de la Tiendita Online.
    - Barra de Búsqueda para Poder encontrar los Productos con Mayor Facilidad.
    - Nombre Grande de la Sección.
+   - Botón para Eliminar el Producto del Carrito.
+   - Imagen del Producto.
+   - Nombre del Producto.
+   - Precio del Producto.
+   - Cantidad que estamos Comprando de Dicho Producto.
+   - Subtotal del Producto.
+   - Si Eliminamos un Producto, nos Sale la Opción Deshacer.
+   - Botón para Aplicar un Código de Cupón.
+   - Total del Carrito, donde nos sale: El Subtotal y Total del Monto a Pagar.
+   - Botón Finalizar Compra.
+   - Sino hay Ningún Producto en el Carrito, Nos sale que El Carrito Esta Vacio.
+   - Si el Carrito Esta Vacio, Nos Sale el Botón Volver a la Tienda.
+   - Si precionamos, el Botón Volver a la Tienda, Nos Redirecciona al Apartado de Tienda de Todos los Productos.  De Ahí en adelante, podemos seleccionar si nos quedamos en ese Apartado a ver los Productos, o podemos seleccionar también la Manera de ver los Productos por Categorias.
+   - Sección de la Fotitos del Mes. (En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Sección de Comentarios de Nuestros Clientes. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Nuestra Recomendación Semanal de Música Relajante. ♡ En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Frasesitas Dulces Sobre los Postrecitos. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Frasesita Divertida sobre los Postrecitos. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Botón Ir Arriba. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
+   - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual.
+   - Botón Ir Arriba.
 
 
  
