@@ -10,9 +10,12 @@ El objetivo principal de Mi proyecto, es el poder ayudar a las personas a que a 
 
 # 2) PROBLEMAS IDENTIFICADOS EN LA INVESTIGACIÓN (DEL CLIENTE Y DEL USUARIO):
  ***PROBLEMAS QUE ENCONTRAMOS EN LAS PERSONAS AL VISITAR UNA TIENDA ONLINE:***
- - Las Especificaciones del Producto, no Brindan muchos Detalles. 
- - La Descripción del Producto, no se entienden muy bien.
+ - Las Especificaciones del Producto, no Brinda muchos Detalles. 
+ - La Descripción del Producto, no se entiende muy bien.
  - La Tienda Virtual no esta muy bien organizada y es dificil acceder a los Productos.
  - Los Precios son muy Elevados.
+
+# 3) DEFINICIÓN DEL PÚBLICO OBJETIVO:
+
  
  *** 
