@@ -26,6 +26,7 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Logo de la Tiendita Virtual.
    - Realizadores.
    - Apartados de la Tiendita Online.
+   - Barra de Búsqueda para Poder encontrar los Productos con Mayor Facilidad.
    - Nombre Grande de la Sección.
    - Frasesita Creativa y Tierna.
    - Sección de la Fotitos del Mes. (En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
@@ -40,6 +41,7 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Logo de la Tiendita Virtual.
    - Realizadores.
    - Apartados de la Tiendita Online.
+   - Barra de Búsqueda para Poder encontrar los Productos con Mayor Facilidad.
    - Nombre Grande de la Sección.
    - Mensajito Inicial para la Notita Especial a Nuestro Queridos Amigos y Amigas.
    - Notita Especial para Nuestros Queridos Client@s, que más que ser Client@s, son nuestros Queridos Amigos y Amigas.
@@ -60,6 +62,7 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Logo de la Tiendita Virtual.
    - Realizadores.
    - Apartados de la Tiendita Online.
+   - Barra de Búsqueda para Poder encontrar los Productos con Mayor Facilidad.
    - Nombre Grande de la Sección.
    - Categorias de Todos los Productos.
    - Barra de Búsqueda, para mayor Facilidad a la Hora de encontrar los Productos.
@@ -78,6 +81,7 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Logo de la Tiendita Virtual.
    - Realizadores.
    - Apartados de la Tiendita Online.
+   - Barra de Búsqueda para Poder encontrar los Productos con Mayor Facilidad.
    - Nombre Grande de la Sección.
    - Link que nos Redirecciona a la Página Principal.
    - Barra que nos Muestra de cuantos productos a cuantos Productos se nos esta mostrando.
@@ -95,7 +99,11 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Botón Ir Arriba.
 
   ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: CARRITO***
-
+   - Logo de la Tiendita Virtual.
+   - Realizadores.
+   - Apartados de la Tiendita Online.
+   - Barra de Búsqueda para Poder encontrar los Productos con Mayor Facilidad.
+   - Nombre Grande de la Sección.
 
 
  
