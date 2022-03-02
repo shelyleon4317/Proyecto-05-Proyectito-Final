@@ -130,6 +130,13 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
 
 
   ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: FINALIZAR COMPRA***
+   - Logo de la Tiendita Virtual.
+   - Realizadores.
+   - Apartados de la Tiendita Online.
+   - Barra de Búsqueda para Poder encontrar los Productos con Mayor Facilidad.
+   - Nombre Grande de la Sección.
+   - Opción, Para Introducir un Código de Cupón.
+   - Tipo de Servicio, en este.
 
 
 
