@@ -74,7 +74,12 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual.
    - Botón Ir Arriba.
 
-  ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: ORDEN ONLINE POR CATEGORÍAS***
+  ***CARACTERISTICAS DEL APARTADO DE LA TIENDITA VIRTUAL: TIENDA DE TODOS LOS PRODUCTOS***
+   - Logo de la Tiendita Virtual.
+   - Realizadores.
+   - Apartados de la Tiendita Online.
+   - Nombre Grande de la Sección.
+   - 
 
  
 
