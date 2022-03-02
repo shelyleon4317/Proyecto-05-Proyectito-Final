@@ -18,5 +18,8 @@ El objetivo principal de Mi proyecto, es el poder ayudar a las personas a que a 
 # 3) DEFINICIÓN DEL PÚBLICO OBJETIVO:
 Mi Producto de Tienda Virtual, está dirigido a todo el Público en General, a Niños y Niñas, Jóvenes, Adultos, y todos los que deseen, Divertirse Elegiendo que desean Probar, que puedan pasar un Bonito Rato y Disfrutar de Nuestro Riquisimos Postrecitos, Bebidas y Productos Muy Ricos que Tenemos Especialmente para Ell@s.
 
+# 4) DEFINICIÓN DE LA SOLUCION/PRODUCTO:
+
+
  
  *** 
