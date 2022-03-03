@@ -159,8 +159,7 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual.
    - Botón Ir Arriba.
 
-# 6) LINK A PROTOTIPO:
-
+# 6) LINK A PROTOTIPO: CANVAS, FIGMA O DE LAS HERRAMIENTAS QUE UTILICE.
 
 
 
