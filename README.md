@@ -136,7 +136,16 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Barra de Búsqueda para Poder encontrar los Productos con Mayor Facilidad.
    - Nombre Grande de la Sección.
    - Opción, Para Introducir un Código de Cupón.
-   - Tipo de Servicio, en este.
+   - Nos sale Tipo de Servicio, en este Caso seria a Domicilio.
+   - Nos sale para Seleccionar la Fecha y el Tiempo es decir la Hora que queremos que nos Entregen el Producto.
+   - Tenemos la parte de Detalles de Facturación, donde nos Sale: Nombre, Apellidos, Nombre de la empresa (opcional), Opción Desplegable
+     a Seleccionar País/Región, Dirección de la calle, Localidad/Ciudad, Región/Provincia, Código Postal, Teléfono, y Dirección de correo electrónico.
+   - Tenemos la parte de Información adicional, 
+
+
+
+
+
 
 
 
