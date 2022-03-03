@@ -85,9 +85,10 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Nombre Grande de la Sección.
    - Link que nos Redirecciona a la Página Principal.
    - Barra que nos Muestra de cuantos productos a cuantos Productos se nos esta mostrando.
-   - Barra que nos muestra los productos, según el orden que podamos seleccionar, Tales como: Orden por Defecto, Ordenar por Popularidad, Ordenar por Calificación Media, Ordenar por los Últimos, Ordenar por Precio: Bajo a Alto y Ordenar por Precio: Alto a Bajo.
+   - Barra que nos muestra los productos, según el orden que podamos seleccionar, Tales como: Orden por Defecto, Ordenar por Popularidad, Ordenar por Calificación Media, Ordenar      por los Últimos, Ordenar por Precio: Bajo a Alto y Ordenar por Precio: Alto a Bajo.
    - Se Muestran Todos Los Productos Como un Menú.
-   - Los Productos se Muestran Individualmente, Si esta en Oferta o No esta en Oferta, Se muestra el Nombre del Producto, Se muestra el Precio y se muestra un Botón con Opción a Añadir al Carrito. 
+   - Los Productos se Muestran Individualmente, Si esta en Oferta o No esta en Oferta, Se muestra el Nombre del Producto, Se muestra el Precio y se muestra 
+     un Botón con Opción a Añadir al Carrito. 
    - Sección de la Fotitos del Mes. (En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
    - Sección de Comentarios de Nuestros Clientes. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
    - Nuestra Recomendación Semanal de Música Relajante. ♡ En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
@@ -116,7 +117,8 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Botón Finalizar Compra.
    - Sino hay Ningún Producto en el Carrito, Nos sale que El Carrito Esta Vacio.
    - Si el Carrito Esta Vacio, Nos Sale el Botón Volver a la Tienda.
-   - Si precionamos, el Botón Volver a la Tienda, Nos Redirecciona al Apartado de Tienda de Todos los Productos.  De Ahí en adelante, podemos seleccionar si nos quedamos en ese Apartado a ver los Productos, o podemos seleccionar también la Manera de ver los Productos por Categorias.
+   - Si precionamos, el Botón Volver a la Tienda, Nos Redirecciona al Apartado de Tienda de Todos los Productos.  De Ahí en adelante, podemos seleccionar si nos
+     quedamos en ese Apartado a ver los Productos, o podemos seleccionar también la Manera de ver los Productos por Categorias.
    - Si no tenemos Productos, nos Saldra que Finalizar compra no está disponible mientras Nuestro Carrito esté Vacío.
    - Sección de la Fotitos del Mes. (En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
    - Sección de Comentarios de Nuestros Clientes. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
@@ -156,6 +158,8 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Botón Ir Arriba. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
    - Derechos de Autor y Herramienta con la que se Realizo la Tiendita Virtual.
    - Botón Ir Arriba.
+
+# 6) LINK A PROTOTIPO:
 
 
 
