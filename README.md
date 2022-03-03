@@ -146,6 +146,7 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Nos Sale Tres medios de pago, el cual podremos elegir, Los Cuales son: Transferencia bancaria
      directa, Pagos por cheque y Contra reembolso (contra entrega).
    - Nos Sale un Breve texto donde se explica que se hará con nuestros datos y también nos sale un Link que nos Redirecciona a la Página de nuestra Política de Privacidad.
+   - Botón de Realizar El Pedido.
    - Sección de la Fotitos del Mes. (En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
    - Sección de Comentarios de Nuestros Clientes. En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
    - Nuestra Recomendación Semanal de Música Relajante. ♡ En todos los Apartados de la Tiendita Virtual, en la Parte Inferior).
