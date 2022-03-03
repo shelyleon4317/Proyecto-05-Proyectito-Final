@@ -140,7 +140,14 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Nos sale para Seleccionar la Fecha y el Tiempo es decir la Hora que queremos que nos Entregen el Producto.
    - Tenemos la parte de Detalles de Facturación, donde nos Sale: Nombre, Apellidos, Nombre de la empresa (opcional), Opción Desplegable
      a Seleccionar País/Región, Dirección de la calle, Localidad/Ciudad, Región/Provincia, Código Postal, Teléfono, y Dirección de correo electrónico.
-   - Tenemos la parte de Información adicional, 
+   - Tenemos la parte de Información adicional, donde podemos, agregar Notas del pedido (opcional), por ejemplo: Notas Especiales para la Entrega.
+   - Nos Sale Tu Pedido, donde están nuestros productos que Agregamos al Carrito, Nos Sale la cantidad, si Agregamos una Nota especial, Ahí nos 
+     saldra, Nos sale el Precio, El Subtotal y el Total a pagar.
+   - Nos Sale Tres medios de pago, el cual podremos elegir, Los Cuales son: Transferencia bancaria
+     directa, Pagos por cheque y Contra reembolso (contra entrega).
+   - Nos Sale un Breve texto donde se explica que se hará con nuestros datos y también nos sale un Link que nos Redirecciona a la Página de nuestra Política de Privacidad.
+
+
 
 
 
