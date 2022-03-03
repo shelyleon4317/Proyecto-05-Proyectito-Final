@@ -164,7 +164,8 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
 
  ***TESTEO DE MI HIPÓTESIS (GOOGLE FORMS Y CANVA):*** https://www.canva.com/design/DAE55jUIsSA/Q4CU3dGmOI3RViruSc-mug/view?utm_content=DAE55jUIsSA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
-# 7) EXPLICACIÓN DE COMO LOS CONTENIDOS y FUNCIONALIDADES RESPONDEN A LOS OBJETIVOS DEL PROYECTO:
+# 7) EXPLICACIÓN DE COMO LOS CONTENIDOS Y FUNCIONALIDADES RESPONDEN A LOS OBJETIVOS MI PROYECTO:
+ 
   
 
 
