@@ -160,6 +160,7 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
    - Botón Ir Arriba.
 
 # 6) LINK A PROTOTIPO: CANVAS, FIGMA O DE LAS HERRAMIENTAS QUE UTILICE.
+ ***HIPÓTESIS DE MI PROYECTO:*** https://docs.google.com/drawings/d/1Rb9ccFENUd4fO_-LY11nMisrao71nu_VuBd9hjzwKRU/edit
 
 
 
