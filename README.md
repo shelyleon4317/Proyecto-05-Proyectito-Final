@@ -162,7 +162,10 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
 # 6) LINK A PROTOTIPO: CANVAS, FIGMA O DE LAS HERRAMIENTAS QUE UTILICE.
  ***HIPÓTESIS DE MI PROYECTO:*** https://docs.google.com/drawings/d/1Rb9ccFENUd4fO_-LY11nMisrao71nu_VuBd9hjzwKRU/edit
 
-***TESTEO DE MI HIPÓTESIS (GOOGLE FORMS Y CANVA):*** https://www.canva.com/design/DAE55jUIsSA/Q4CU3dGmOI3RViruSc-mug/view?utm_content=DAE55jUIsSA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+ ***TESTEO DE MI HIPÓTESIS (GOOGLE FORMS Y CANVA):*** https://www.canva.com/design/DAE55jUIsSA/Q4CU3dGmOI3RViruSc-mug/view?utm_content=DAE55jUIsSA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+# 7) EXPLICACIÓN DE COMO LOS CONTENIDOS y FUNCIONALIDADES RESPONDEN A LOS OBJETIVOS DEL PROYECTO:
+  
 
 
 
