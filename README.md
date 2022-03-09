@@ -19,7 +19,7 @@ El objetivo principal de Mi proyecto, es el poder ayudar a las personas a que a 
 Mi Producto de Tienda Virtual, está dirigido a todo el Público en General, a Niños y Niñas, Jóvenes, Adultos, y todos los que deseen, Divertirse Elegiendo que desean Probar, que puedan pasar un Bonito Rato y Disfrutar de Nuestro Riquisimos Postrecitos, Bebidas y Productos Muy Ricos que Tenemos Especialmente para Ell@s.
 
 # 4) DEFINICIÓN DE LA SOLUCIÓN/PRODUCTO:
-De la misma forma, luego de haber analizado y observado, los problemas que encuentran las personas al entrar a una Tienda Online, decidimos crear Antojitos JERYSHEL, una Tiendita Virtual desarrollada con muchísimo amor, cariño y dedicación, para nuestros Querid@s Client@s, qué más que ser Client@s son Nuestros Amigos y Amigas, Observamos con mucho detenimiento esta Información Recolectada y queríamos traer algo totalmente distinto y que pudiera dar solución a estas problemáticas identificadas, que generalmente podemos encontrar al Ingresar a una Tienda Online. Por ello, en nuestra Tienda Virtual Antojitos JERYSHEL, podemos encontrar, que las Especificaciones de los productos nos brindan bastante detalle, y se comprende totalmente, asimismo en el área de la Descripción del producto, podemos no solo encontrar la descripción de dicho Producto, sino que también podemos conocer un poco de la Historia de ese producto, cómo está elaborado, qué ingredientes pueden ingresar para prepararlo, Quien lo Creó, entre otras. Además qué encontraremos una imagen Referencial de cómo se ve o cómo se vería al llegarle al Cliente. También Contamos con dos maneras de poder acceder a nuestros productos, la primera es acceder y observar los productos por categorías, la segunda es que lo podemos encontrar en un tipo Menú donde salen todos los productos y una barra que nos mostrará los productos, segun el orden que podamos seleccionar. De Igual Importancia, algo muy Crucial a la hora de poder comprar un producto, es el precio, para lo cual Antojitos JERYSHEL, pensó mucho en ello y se preocupa mucho por el Cliente, Queremos siempre que Reciban un producto de Excelente Calidad y que además como lo son todos nuestros Productos, tienen precios muy Accesibles, para que todos y todas puedan consumir nuestros Productos  y Disfrutarlos. De esta manera, al poder agregar todas estas opciones, estamos dando solución a estas problemáticas que podemos encontrar en las personas al entrar una a una Tienda Online, y Regularmente estamos haciendo Formularios y pruebas para mejorar la Calidad de nuestra Tiendita Virtual, todo ello, para darle lo mejor de lo mejor a nuestros Querid@s Client@s, Más que ser nuestros Clientes y Clientas, son nuestros Amigos y Amigas.
+De la misma forma, luego de haber analizado y observado, los problemas que encuentran las personas al entrar a una Tienda Online, decidimos crear Antojitos JERYSHEL, una Tiendita Virtual desarrollada con muchísimo amor, cariño y dedicación, para nuestros Querid@s Client@s, qué más que ser Client@s son Nuestros Amigos y Amigas, Observamos con mucho detenimiento esta Información Recolectada y queríamos traer algo totalmente distinto y que pudiera dar solución a estas problemáticas identificadas, que generalmente podemos encontrar al Ingresar a una Tienda Online. Por ello, en nuestra Tienda Virtual Antojitos JERYSHEL, podemos encontrar, que las Especificaciones de los productos nos brindan bastante detalle, y se comprende totalmente, asimismo en el área de la Descripción del producto, podemos no solo encontrar la descripción de dicho Producto, sino que también podemos conocer un poco de la Historia de ese producto, cómo está elaborado, qué ingredientes pueden ingresar para prepararlo, Quien lo Creó, entre otras. Además qué encontraremos una imagen Referencial de cómo se ve o cómo se vería al llegarle al Cliente. También Contamos con dos maneras de poder acceder a nuestros productos, la primera es acceder y observar los productos por categorías, la segunda es que lo podemos encontrar en un tipo Menú donde salen todos los productos y una barra que nos mostrará los productos, segun el orden que podamos seleccionar. De Igual Importancia, algo muy Crucial a la hora de poder comprar un producto, es el precio, para lo cual Antojitos JERYSHEL, pensó mucho en ello y se preocupa mucho por el Cliente, Queremos siempre que Reciban un producto de Excelente Calidad y que además como lo son todos nuestros Productos, tienen precios muy Accesibles, para que todos y todas puedan consumir nuestros Productos  y Disfrutarlos. De esta manera, al poder agregar todas estas opciones, estamos dando solución a estas problemáticas que podemos encontrar en las personas al entrar a una Tienda Online, y Regularmente estamos haciendo Formularios y pruebas para mejorar la Calidad de nuestra Tiendita Virtual, todo ello, para darle lo mejor de lo mejor a nuestros Querid@s Client@s, Más que ser nuestros Clientes y Clientas, son nuestros Amigos y Amigas.
 
 # 5) CARACTERISTICAS DE NUESTRA TIENDA VIRTUAL:
   ***CARACTERISTICAS DE LA PÁGINA PRINCIPAL***
@@ -176,13 +176,27 @@ En nuestra Tienda Virtual Antojitos JERYSHEL, podemos encontrar:
 3. Contamos con dos maneras de poder acceder a nuestros productos, la primera es acceder y observar los productos por categorías, la segunda es que lo podemos encontrar en un tipo Menú donde salen todos los productos y una barra que nos mostrará los productos, segun el orden que podamos seleccionar.
 4. Algo muy Crucial a la hora de poder comprar un producto, es el precio, para lo cual Antojitos JERYSHEL, pensó mucho en ello y se preocupa mucho por el Cliente, Queremos siempre que Reciban un producto de Excelente Calidad y que además como lo son todos nuestros Productos, tienen precios muy Accesibles, para que todos y todas puedan consumir nuestros Productos y Disfrutarlos.
 
-- De esta manera, al poder agregar todas estas opciones, estamos dando solución a estas problemáticas que podemos encontrar en las personas al entrar una a una Tienda Online, Las Necesidades de Nuestros Usuari@s y Regularmente estamos haciendo Formularios y pruebas para mejorar la Calidad de nuestra Tiendita Virtual, todo ello, para darle lo mejor de lo mejor a nuestros Querid@s Client@s, Más que ser nuestros Clientes y Clientas, son nuestros Amigos y Amigas.-
+- De esta manera, al poder agregar todas estas opciones, estamos dando solución a estas problemáticas que podemos encontrar en las personas al entrar a una Tienda Online, Las Necesidades de Nuestros Usuari@s y Regularmente estamos haciendo Formularios y pruebas para mejorar la Calidad de nuestra Tiendita Virtual, todo ello, para darle lo mejor de lo mejor a nuestros Querid@s Client@s, Más que ser nuestros Clientes y Clientas, son nuestros Amigos y Amigas.-
 
 # 9) LINK DEL VIDEO DE LOOM:
-
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/3482aa14bce44d4786248c8659cc2e4f  --- Link del Video del Loom, Parte 01.🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/e67d3c70231845b295f1e760da37f957  --- Link del Video del Loom, Parte 02. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/a7a2bf0e636b48a4bd02bbf6874c6ca5  --- Link del Video del Loom, Parte 03. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/1448d759570d49008aa486d25dc995fa  --- Link del Video del Loom, Parte 04. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/2b76f7e648c44dae851b4c4ce011986f  --- Link del Video del Loom, Parte 05. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/9cdc15ecb99a4b27b4db8dd182df4a5d  --- Link del Video del Loom, Parte 06. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/1df781a5d18c4198abba187f4a1d737b  --- Link del Video del Loom, Parte 07. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/80d532896e224464afd9a577b7fa3f15  --- Link del Video del Loom, Parte 08. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/abe8b1a721b542a883bcd6e931800a85  --- Link del Video del Loom, Parte 09. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/3e383b1ad75f4b8d919f497c1810b2d2  --- Link del Video del Loom, Parte 10. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/86d7908819fe446e81becbe87115da43  --- Link del Video del Loom, Parte 11. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/b29c61e259544075925a7f593a22abbc  --- Link del Video del Loom, Parte 12. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/bd04829ea1d94b7ca10b66b51bb26c0b  --- Link del Video del Loom, Parte 13. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/75e9b2ef7e6a4d129544ebca0b6781fb  --- Link del Video del Loom, Parte 14. 🤍
+  ***LINK DEL VIDEO DEL LOOM:***  https://www.loom.com/share/d7d3bce5f8dd4b60badc7abd91a8e8c3  --- Link del Video del Loom, Parte 15. 🤍
 
 # 10) LINK DE CARPETAS DEL GOOGLE DRIVE CON LAS EVIDENCIAS DE TRABAJO, REALIZADAS A LO LARGO DE LA UNIDAD 05 Y DEL PROYECTO 05:
- ***LINK DE CARPETAS DEL GOOGLE DRIVE:*** https://drive.google.com/drive/folders/1vsVGgm5OX_Nvi8YU6p7b82GyWYPFXRyw
+  ***LINK DE CARPETAS DEL GOOGLE DRIVE:*** https://drive.google.com/drive/folders/1vsVGgm5OX_Nvi8YU6p7b82GyWYPFXRyw
  
 # 11) LINK DEL PROYECTO PÚBLICO PARA SER REVISADO:
   ***LINK DEL PROYECTO PÚBLICO:*** http://www.hosting-sheylita.com.mialias.net/  ---  ***Usuario:*** hostin999  ***Contraseña:*** Qc1kXZpU
@@ -203,28 +217,8 @@ En nuestra Tienda Virtual Antojitos JERYSHEL, podemos encontrar:
   ***ENTRE MUCHAS HERRAMIENTAS MÁS, QUE PODEMOS IR DESCUBRIENDO AL REVISAR EL README.md Y TAMBIÉN REVISANDO LA TIENDITA VIRTUAL***
   
  # 14) INTEGRANTES DEL GRUPO:
-  ***INTEFGRANTES DEL GRUPO:*** Sheyla Abigail Cieza Silva.
+  ***INTEGRANTES DEL GRUPO:*** Sheyla Abigail Cieza Silva.
   
   #¡MUCHAS GRACIAS POR TODO, FUE MUY HERMOSO EL CURSAR LA BEQUITA, ME SIENTO MUY AGRADECIDA POR LA GRAN OPORTUNIDAD ME
   BRINDARON, MUCHAS GRACIAS POR VER Y POR LLEGAR HASTA AQUÍ, QUE DIOS LOS BENDIGA INFINITAMENTE SIEMPRE! :) :3 <3
 
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
- 
- *** 
