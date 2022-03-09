@@ -164,7 +164,7 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
 
  ***TESTEO DE MI HIPÓTESIS (GOOGLE FORMS Y CANVA):*** https://www.canva.com/design/DAE55jUIsSA/Q4CU3dGmOI3RViruSc-mug/view?utm_content=DAE55jUIsSA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
  
- ****PRESENTACIÓN DE PROTOTIPO Y VISTA DE LA PÁGINA EN DIFERENTES DISPOSITIVOS (CANVA):*** https://www.canva.com/design/DAE57raZ0Zw/qdnzdgVnsxAIdwLozC845g/view?utm_content=DAE57raZ0Zw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
+ ***PRESENTACIÓN DE PROTOTIPO Y VISTA DE LA PÁGINA EN DIFERENTES DISPOSITIVOS (CANVA):*** https://www.canva.com/design/DAE57raZ0Zw/qdnzdgVnsxAIdwLozC845g/view?utm_content=DAE57raZ0Zw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
 
 # 7) EXPLICACIÓN DE COMO LOS CONTENIDOS Y FUNCIONALIDADES RESPONDEN A LOS OBJETIVOS MI PROYECTO:
 Los Contenidos y las Funcionalidades de nuestra Tiendita Virtual son muchos, pero cómo lo mencioné con anterioridad, en nuestra Tiendita Online podemos encontrar Productos con  Precios muy accesibles, También estamos muy bien Organizados y es muy sencillo poder encontrar los Productos, lo cual nos permite tener una interfaz muy entendible. Así que podemos decir, que Además de vender nuestros Productos, uno de nuestros Objetivos, es lograr un Cambio y que no solo Somos una Tienda, SOMOS una Gran Familia, Siempre llevaremos ese Impacto Positivo para quién lo necesite y que a través de la comida podemos pasar bonitos y gratos momentos, qué a su vez nos ayuda a sentirnos mejor, y lograr un Cambio en el Mundo, Qué es lo que Buscamos.
