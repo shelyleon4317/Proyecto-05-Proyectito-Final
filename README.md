@@ -184,8 +184,11 @@ En nuestra Tienda Virtual Antojitos JERYSHEL, podemos encontrar:
 # 10) LINK DE CARPETAS DEL GOOGLE DRIVE CON LAS EVIDENCIAS DE TRABAJO, REALIZADAS A LO LARGO DE LA UNIDAD 05 Y DEL PROYECTO 05:
  ***LINK DE CARPETAS DEL GOOGLE DRIVE:*** https://drive.google.com/drive/folders/1vsVGgm5OX_Nvi8YU6p7b82GyWYPFXRyw
  
- # 11) LINK DEL PROYECTO PÚBLICO PARA SER REVISADO:
+# 11) LINK DEL PROYECTO PÚBLICO PARA SER REVISADO:
   ***LINK DEL PROYECTO PÚBLICO:*** http://www.hosting-sheylita.com.mialias.net/  ---  ***Usuario:*** hostin999  ***Contraseña:*** Qc1kXZpU
+  
+# 12) LINK DEl MEDIUM: 
+ ***LINK DEL MEDIUM:*** https://medium.com/@scieza/medium-del-proyecto-05-ab366f59a549
 
 
 
