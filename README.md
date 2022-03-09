@@ -185,7 +185,7 @@ En nuestra Tienda Virtual Antojitos JERYSHEL, podemos encontrar:
  ***LINK DE CARPETAS DEL GOOGLE DRIVE:*** https://drive.google.com/drive/folders/1vsVGgm5OX_Nvi8YU6p7b82GyWYPFXRyw
  
  # 11) LINK DEL PROYECTO PUBLICO PARA SER REVISADO:
-  ***Correo:*** 
+  ***Correo:*** http://www.hosting-sheylita.com.mialias.net/  ***Contraseña:*** 
 
 
 
