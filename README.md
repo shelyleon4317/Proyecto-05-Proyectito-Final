@@ -168,7 +168,15 @@ De la misma forma, luego de haber analizado y observado, los problemas que encue
 
 # 7) EXPLICACIÓN DE COMO LOS CONTENIDOS Y FUNCIONALIDADES RESPONDEN A LOS OBJETIVOS MI PROYECTO:
 Los Contenidos y las Funcionalidades de nuestra Tiendita Virtual son muchos, pero cómo lo mencioné con anterioridad, en nuestra Tiendita Online podemos encontrar Productos con  Precios muy accesibles, También estamos muy bien Organizados y es muy sencillo poder encontrar los Productos, lo cual nos permite tener una interfaz muy entendible. Así que podemos decir, que Además de vender nuestros Productos, uno de nuestros Objetivos, es lograr un Cambio y que no solo Somos una Tienda, SOMOS una Gran Familia, Siempre llevaremos ese Impacto Positivo para quién lo necesite y que a través de la comida podemos pasar bonitos y gratos momentos, qué a su vez nos ayuda a sentirnos mejor, y lograr un Cambio en el Mundo, Qué es lo que Buscamos.
- 
+
+# 8) EXPLICACIÓN DE COMO LOS CONTENIDOS Y FUNCIONALIDADES RESUELVEN CADA UNA DE LAS NECESIDADES DEL USUARIO FINAL:
+En nuestra Tienda Virtual Antojitos JERYSHEL, podemos encontrar:
+1. Que Las Especificaciones de los productos nos brindan bastante detalle, y se comprende totalmente.
+2. En el área de la Descripción del producto, podemos no solo encontrar la descripción de dicho Producto, sino que también podemos conocer un poco de la Historia de ese producto, cómo está elaborado, qué ingredientes pueden ingresar para prepararlo, Quien lo Creó, entre otras. Además qué encontraremos una imagen Referencial de cómo se ve o cómo se vería al llegarle al Cliente.
+3. Contamos con dos maneras de poder acceder a nuestros productos, la primera es acceder y observar los productos por categorías, la segunda es que lo podemos encontrar en un tipo Menú donde salen todos los productos y una barra que nos mostrará los productos, segun el orden que podamos seleccionar.
+4. Algo muy Crucial a la hora de poder comprar un producto, es el precio, para lo cual Antojitos JERYSHEL, pensó mucho en ello y se preocupa mucho por el Cliente, Queremos siempre que Reciban un producto de Excelente Calidad y que además como lo son todos nuestros Productos, tienen precios muy Accesibles, para que todos y todas puedan consumir nuestros Productos  y Disfrutarlos.
+
+- De esta manera, al poder agregar todas estas opciones, estamos dando solución a estas problemáticas que podemos encontrar en las personas al entrar una a una Tienda Online, Las Necesidades de Nuestros Usuari@s y Regularmente estamos haciendo Formularios y pruebas para mejorar la Calidad de nuestra Tiendita Virtual, todo ello, para darle lo mejor de lo mejor a nuestros Querid@s Client@s, Más que ser nuestros Clientes y Clientas, son nuestros Amigos y Amigas.-
   
 
 
