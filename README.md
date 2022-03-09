@@ -187,7 +187,7 @@ En nuestra Tienda Virtual Antojitos JERYSHEL, podemos encontrar:
 # 11) LINK DEL PROYECTO PÚBLICO PARA SER REVISADO:
   ***LINK DEL PROYECTO PÚBLICO:*** http://www.hosting-sheylita.com.mialias.net/  ---  ***Usuario:*** hostin999  ***Contraseña:*** Qc1kXZpU
   
-# 12) LINK DEl MEDIUM: 
+# 12) LINK DEL MEDIUM: 
  ***LINK DEL MEDIUM:*** https://medium.com/@scieza/medium-del-proyecto-05-ab366f59a549
  
 # 13) PLATAFORMAS Y HERRAMIENTAS UTILIZADAS:
