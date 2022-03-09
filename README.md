@@ -177,6 +177,14 @@ En nuestra Tienda Virtual Antojitos JERYSHEL, podemos encontrar:
 4. Algo muy Crucial a la hora de poder comprar un producto, es el precio, para lo cual Antojitos JERYSHEL, pensó mucho en ello y se preocupa mucho por el Cliente, Queremos siempre que Reciban un producto de Excelente Calidad y que además como lo son todos nuestros Productos, tienen precios muy Accesibles, para que todos y todas puedan consumir nuestros Productos y Disfrutarlos.
 
 - De esta manera, al poder agregar todas estas opciones, estamos dando solución a estas problemáticas que podemos encontrar en las personas al entrar una a una Tienda Online, Las Necesidades de Nuestros Usuari@s y Regularmente estamos haciendo Formularios y pruebas para mejorar la Calidad de nuestra Tiendita Virtual, todo ello, para darle lo mejor de lo mejor a nuestros Querid@s Client@s, Más que ser nuestros Clientes y Clientas, son nuestros Amigos y Amigas.-
+
+# 9) LINK DEL VIDEO DE LOOM:
+
+
+# 10) LINK DE CARPETAS DEL GOOGLE DRIVE CON LAS EVIDENCIAS DEL TRABAJO:
+
+
+
   
 
 
